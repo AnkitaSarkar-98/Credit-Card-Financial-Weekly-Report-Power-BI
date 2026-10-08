@@ -90,7 +90,7 @@ Includes:
 - Revenue by Spending Category
 - Revenue by Card Category
 - Revenue by Transaction Type
-- Weekly Revenue Trend
+- Revenue Trend-Month → Quarter → Week → Day
 - Transaction Volume by Week
 - Weekly performance table
 - WoW Revenue analysis
