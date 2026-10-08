@@ -37,7 +37,7 @@ The dashboards use interactive slicers and DAX measures to make the analysis eas
 - KPI cards
 - Slicers and filters
 - Drill-through
-- Weekly trend analysis
+- Trend analysis(Month → Quarter → Week → Day)
 - Data modelling
 
 # Power Query
